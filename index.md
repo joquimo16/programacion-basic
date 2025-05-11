@@ -3,3 +3,4 @@ Creatures Inc., y a su vez distribuida por Nintendo. La misión en estos juegos 
 la fecha alcanzan el número de 1025 (1172 incluyendo formas regionales y mecánicas exclusivas procedentes de otras entregas). La posibilidad de intercambiarlos le hizo
 conseguir una popularidad que se plasmó en un éxito de ventas y la consiguiente aparición de una serie animada, películas y diverso merchandising como peluches, juguetes y
 cartas
+cambio de la nueva rama
